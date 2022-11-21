@@ -1,4 +1,5 @@
 .model small
+.stack 100h
 .386
 .data
 num1 DD 00000000H
